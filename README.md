@@ -6,3 +6,4 @@ A very simple and crude HTML-test-editor. My original intention is make a little
 
 just a textbox and webview.
 
+![image](https://github.com/Z-Pike/qt-html-tool/edit/master/1.JPG)
