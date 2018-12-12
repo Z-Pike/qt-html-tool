@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>rsc/mainicon.png</file>
+        <file>rsc/save.png</file>
+        <file>rsc/open.png</file>
+        <file>rsc/new.png</file>
+        <file>rsc/dockwindow.png</file>
+        <file>rsc/exit.png</file>
+        <file>rsc/help.png</file>
+        <file>rsc/saveas.png</file>
+        <file>rsc/saveall.png</file>
+        <file>rsc/run.png</file>
+        <file>rsc/houyibu.png</file>
+        <file>rsc/qianyibu.png</file>
+    </qresource>
+</RCC>
